@@ -18,10 +18,10 @@ Cara kontribusi gampang
 
 ## Template
 
-Nama    : __isi__  
-Alamat  : __isi__
-Jam     : __isi__
-Menu    : __isi__
-Harga   : __isi__
-Nasi Capcai : 26rb  
-Google  : __isi__
+Nama    : __contoh: Warung Kopi Pahit__  
+Alamat  : __contoh: jl. Bawah Pohon__  
+Jam     : __contoh: pagi-siang-sore-malam__  
+Menu    : __contoh: nasi dan kopi ___  
+Harga   : __contoh: 5-10rb/porsi__  
+Contoh Harga : __contoh: kopi-susu 5000IDR/glass__  
+Google  : __contoh: https://goo.gl/maps/K9pj9dtGzYkmfM7k7__  
