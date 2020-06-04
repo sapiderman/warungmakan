@@ -5,7 +5,7 @@
 
 ### Benhil
 
-Nama    : Warung Aditya  
+Nama    : Warung Aditya
 Alamat  : Jl. Benhil Raya, Depan RSAL Mintoharjo
 Jam     : Pagi - Malam
 Jenis   : Cap cai, nasi goreng, Chinese Food
