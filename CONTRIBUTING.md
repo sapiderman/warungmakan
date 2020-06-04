@@ -13,5 +13,5 @@ Cara kontribusi gampang
 ## Newbie
 
 1. Bikin account github.com : gratis sueer!
-2. Install git revision tool [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+2. Install git revision tool [dari sini](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 3. Lakukan  lankah 1-5 di atas.
