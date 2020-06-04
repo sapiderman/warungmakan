@@ -1,8 +1,8 @@
 # Cara Kontribusi
 
----
+---  
 
-Cara kontribusi gampang
+## Cara kontribusi gampang
 
 1. Git clone repo  
 2. Git checkout ke branch feature sendiri  
