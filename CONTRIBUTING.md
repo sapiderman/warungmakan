@@ -18,10 +18,10 @@ Cara kontribusi gampang
 
 ## Template
 
-Nama    : __contoh: Warung Kopi Pahit__  
-Alamat  : __contoh: jl. Bawah Pohon__  
-Jam     : __contoh: pagi-siang-sore-malam__  
-Menu    : __contoh: nasi dan kopi ___  
-Harga   : __contoh: 5-10rb/porsi__  
-Contoh Harga : __contoh: kopi-susu 5000IDR/glass__  
-Google  : __contoh: https://goo.gl/maps/K9pj9dtGzYkmfM7k7__  
+Nama    : _contoh: Warung Kopi Pahit_  
+Alamat  : _contoh: jl. Bawah Pohon_  
+Jam     : _contoh: pagi-siang-sore-malam_  
+Menu    : _contoh: nasi dan kopi_  
+Harga   : _contoh: 5-10rb/porsi_  
+Contoh Harga : _contoh: kopi-susu 5000IDR/glass_  
+Google  : _contoh: https://goo.gl/maps/K9pj9dtGzYkmfM7k7_  
