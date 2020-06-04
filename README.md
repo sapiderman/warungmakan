@@ -9,8 +9,8 @@ Sekalian mendukung lokal usaha warung makan dan warung kopi.
 
 ### Daftar Warung
 
-    * [Bandung](./data/Bandung.md)  
-    * [Bogor](./data/Bogor.md)  
-    * [Jakarta](./data/Jakarta.md)  
-    * [Surabaya](./data/Surabaya.md)  
-    * [Yogyakarta](./data/Yogyakarta.md)  
+* [Bandung](./data/Bandung.md)  
+* [Bogor](./data/Bogor.md)  
+* [Jakarta](./data/Jakarta.md)  
+* [Surabaya](./data/Surabaya.md)  
+* [Yogyakarta](./data/Yogyakarta.md)  
