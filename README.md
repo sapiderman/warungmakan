@@ -1,4 +1,4 @@
-#Warung Makan
+# Warung Makan
 
 Repository untuk lokasi dan nama warung makan/kopi yang enak untuk membantu teman teman dev. 
 Sekalian mendukung lokal usaha warung makan dan warung kopi.

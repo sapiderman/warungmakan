@@ -15,3 +15,13 @@ Cara kontribusi gampang
 1. Bikin account github.com : gratis sueer!
 2. Install git revision tool [dari sini](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 3. Lakukan  lankah 1-5 di atas.
+
+## Template
+
+Nama    : __isi__  
+Alamat  : __isi__
+Jam     : __isi__
+Menu    : __isi__
+Harga   : __isi__
+Nasi Capcai : 26rb  
+Google  : __isi__
