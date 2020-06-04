@@ -9,7 +9,7 @@
 Nama : Warung Aditya  
 Alamat : Jl. Benhil Raya, Depan RSAL Mintoharjo  
 Jam : Pagi - Malam  
-Menu : Cap cai, nasi goreng, Chinese Food  
+Menu : Capcai, nasi goreng, Chinese Food  
 Harga : 12- 30rb/porsi  
 Contoh : 26rb capcai + nasi
 Google : https://goo.gl/maps/iBkEh8MBL2whsykE8  
