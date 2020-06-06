@@ -2,17 +2,17 @@
 
 ## Tipe Perubahan
 
-- [] Lokasi baru
-- [] Perbaikan
-- [] Lain : _(isi di sini)_
+- [ ] Lokasi baru
+- [ ] Perbaikan
+- [ ] Lain : _(isi di sini)_
 
 ## Checklist
 
 Sudah lengkap data anda?  
 
-- [] Nama Warung
-- [] Lokasi
-- [] Jam Operasional
-- [] Menu
-- [] Contoh harga standard (opsional)
-- [] Link Google Map  
+- [ ] Nama Warung
+- [ ] Lokasi
+- [ ] Jam Operasional
+- [ ] Menu
+- [ ] Contoh harga standard (opsional)
+- [ ] Link Google Map  
