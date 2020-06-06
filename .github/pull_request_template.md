@@ -1,17 +1,18 @@
 # Merge / Pull Request
 
-** Tipe Perubahan **
+## Tipe Perubahan
 
 - [ ] Lokasi baru
 - [ ] Perbaikan
 - [ ] Lain : _(isi di sini)_
 
-** Checklist **
+## Checklist
 
-Sudah lengkap data anda? 
+Sudah lengkap data anda?  
 
 - [ ] Nama Warung
 - [ ] Lokasi
 - [ ] Jam Operasional
-- [ ] Contoh harga standard
-- [ ] Link Google Map 
+- [ ] Menu
+- [ ] Contoh harga standard (opsional)
+- [ ] Link Google Map  
