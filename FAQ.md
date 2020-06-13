@@ -32,6 +32,6 @@ A: Ada, silahkan ke [sini](https://en.wikipedia.org/wiki/GNU_General_Public_Lice
 Q: Astaga kok lebih panjang?  
 A: Iya  
 
-Q: Sebenarnya ini daftar untuk apa?
+Q: Sebenarnya ini daftar untuk apa?  
 A: Untuk mengajak teman2 kontribusi. Bahwa opensource tidak harus teknikal dan ribet. Semua bisa kontribusi.
 
