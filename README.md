@@ -6,7 +6,7 @@ Sekalian mendukung lokal usaha warung makan dan warung kopi.
 ## Daftar Isi  
 
 * [Cara Kontribusi](./CONTRIBUTING.md)  
-* [FAQ]
+* [FAQ](./FAQ.md)
 
 ### Daftar Warung
 

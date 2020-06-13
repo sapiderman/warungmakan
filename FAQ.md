@@ -1,6 +1,6 @@
 # FAQ
 
-Beberapa tanya jawab
+## Beberapa tanya jawab
 
 Q: Kenapa bikin list warung makan?  
 A: Waktu bikin lagi lapar  
@@ -12,7 +12,7 @@ Q: Ada yang di list sudah tutup, boleh hapus?
 A: Boleh
 
 Q: Bagaimana cara update?  
-A: Lihat [Cara Kontribusi](./CONTRIBUTING.md)  
+A: Silahkan cek [Cara Kontribusi](./CONTRIBUTING.md)  
 
 Q: Apakah anda di sponsor warung makan?  
 A: Tidak, tapi kalau ada yang mau sponsor, boleh saja.  
@@ -31,4 +31,7 @@ A: Ada, silahkan ke [sini](https://en.wikipedia.org/wiki/GNU_General_Public_Lice
 
 Q: Astaga kok lebih panjang?  
 A: Iya  
+
+Q: Sebenarnya ini daftar untuk apa?
+A: Untuk mengajak teman2 kontribusi. Bahwa opensource tidak harus teknikal dan ribet. Semua bisa kontribusi.
 
