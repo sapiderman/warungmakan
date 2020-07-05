@@ -7,6 +7,7 @@ Sekalian mendukung lokal usaha warung makan dan warung kopi.
 
 * [Cara Kontribusi](./CONTRIBUTING.md)  
 * [FAQ](./FAQ.md)
+* [Etika Kontributor](./code_of_conduct.md)
 
 ### Daftar Warung
 
