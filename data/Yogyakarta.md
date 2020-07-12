@@ -142,11 +142,11 @@ Menu: yamien, kwetiaw, dimsum, teh cheese
 Harga: 20rb lebih  
 Link: <https://www.traveloka.com/id-id/restaurants/indonesia/detail/yamie-panda-babarsari-84568/menu>  
 
-Nama: Dua Dara Resto  
-Alamat: Jl. Kaliurang, dekat gardu listrik besar  
+Nama: Dara Sulung Resto  
+Alamat: Jl. Kaliurang, dekat gardu listrik Kenthungan
 Menu: nasi kuning, roti canai plus kari  
 Harga: 50rb  
-Instagram:  
+Link: <https://www.instagram.com/darasulung.resto/>
 Notes: pesan sehari sebelum, tidak bisa makan di tempat  
 
 Nama: Parsley Bakery and Resto  
@@ -166,3 +166,93 @@ Alamat: Jl. Seturan
 Menu: martabak manis, asin, roti bakar  
 Harga: mulai dari 20rb  
 Google: <https://www.instagram.com/martabakcasablanca/?hl=id>  
+
+Nama: Yamie Lampion
+Alamat: Jl. Colombo dekat UNY
+Menu: Yamie, Bakso, Pangsit dan minuman
+Harga: 20-30rb
+Link: <https://twitter.com/yamielampion/>
+
+Nama: Medditeranea
+Alamat: Jl. Tirtodipuran
+Menu: Western dish Perancis Selatan
+Harga: 90rb ke atas
+Link: <https://restobykamil.com/>
+
+Nama: Jejamuran
+Alamat: Jl. Pendowoharjo, dari Sleman City Hall masih ke utara
+Menu: semua makanan dari jamur
+Harga: -
+Link: <https://jejakpiknik.com/jejamuran-jogja/>
+
+Nama: Penyetan Mas Kobis
+Alamat: Mrican, Gejayan dekat Hotel Prime Plaza. Hampir 40 gerai di DIY
+Menu: Ayam penyet pedas sesuai selera
+Harga: 20-30rb
+Link: <https://www.hipwee.com/travel/warung-penyet-mas-kobis/>
+
+Nama: Bakmi Afung
+Alamat: Jl. Tambak Bayan, Babarsari
+Menu: Yamie, Kwetiaw, Pangsit, Bakso Ikan Goreng
+Harga: 15-25rb
+Link: -
+
+Nama: Nasi Uduk Palagan
+Alamat: Jl. Palagan
+Menu: Nasi Uduk, Ikan, Ayam goreng bakar, sambal goreng kentang, dll
+Harga: 30-50rb
+Link: <https://www.instagram.com/nasiudukpalaganyk/?hl=id>
+
+Nama: Salad Buah Mooi
+Alamat: Jl. Tambak Bayan
+Menu: Salad buah plus dressing dan keju
+Harga: 15-70rb tergantung ukuran/volume yang dipesan.
+Link: <https://www.instagram.com/saladmoi/?hl=id>
+
+Nama: Salad Buah Nyoo
+Alamat: banyak gerai dan dapat dipesan di grabfood/gofood
+Menu: Salad buah plus dressing dan keju
+Harga: 15-70rb tergantung ukuran/volume yg dipesan
+Link: <https://www.instagram.com/salad.nyoo/?hl=id>
+
+Nama: Pondok Ikan Dua Putri
+Alamat: Jl. Perumnas, Jl. Kaliurang, Jl. Prof. Herman Yohanes
+Menu: ikan bakar, sayur tumis
+Harga: 50rb ke atas
+Link: <https://www.tripadvisor.co.id/Restaurant_Review-g294230-d13778911-Reviews-Pondok_Ikan_Dua_Putri-Yogyakarta_Region_Java.html/>
+
+Nama: Ikan Bakar Makassar
+Alamat: Ruko Babarsari dekat Polsek
+Menu: ikan bakar, tumis sayur, air jeruk segar
+Harga: kurang lebih 50rb, harga tertera per-ons
+Link: <https://www.tukangjalanjajan.com/2018/01/makan-ikan-bakar-makassar-di-yogyakarta.html/>
+
+Nama: Nasi Kuning Bu Tuti
+Alamat: Jl. Babarsari, Kledokan, dekat Polsek dan pom bensin
+Menu: nasi kuning, lauk-pauk, gorengan
+Harga: 30rb
+Link: <https://www.instagram.com/explore/locations/542090297/indonesia/yogyakarta/nasi-kuning-bu-tuti-babarsari/?hl=id/>
+
+Nama: Mie Ayam Bandung 59
+Alamat: Maguwoharjo
+Menu: Yamie Ayam Biasa atau Bumbu Sechuan pedas
+Harga: 20-30rb
+Link: <https://www.instagram.com/mie_bandung59/?hl=id>
+
+Nama: Kopi Ketjil
+Alamat: Jl Demangan belakang pasar Demangan
+Menu: Kopi dan biji kopi
+Harga: -
+Link: <https://majalah.ottencoffee.co.id/kopi-ketjil-jogja-si-kecil-yang-meluaskan/>
+
+Nama: Darat Coffee Lab
+Alamat: Jl Nangka, Maguwoharjo, Sleman
+Menu: Kopi dan biji kopi
+Harga: 95rb ke atas untuk biji kopi, 20rb untuk kopi seduh
+Link: <https://www.instagram.com/daratcoffeelab/?hl=id>
+
+Nama: Rahayu Roastery
+Alamat: Jl. Puluhdadi, Caturtunggal, bisa marketplace
+Menu: Biji kopi
+Harga: 90rb ke atas
+Link: <https://www.instagram.com/rahayuroastery/?hl=id>
